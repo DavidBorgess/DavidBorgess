@@ -55,4 +55,14 @@ the `output` branch. After that, delete the opening and closing comment markers.
 </p>
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08060D,50:8B5CF6,100:08060D&height=2" alt="" width="100%" />
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/davidgsborges/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=C4B5FD&labelColor=08060D" alt="Connect with David on LinkedIn" />
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08060D,45:4C1D95,100:8B5CF6&height=120&section=footer" alt="" width="100%" />
