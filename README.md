@@ -7,9 +7,11 @@
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidBorgess&label=VISITORS&color=8B5CF6&style=for-the-badge" alt="Profile visitors counter" />
+  <a href="https://hits.sh/github.com/DavidBorgess/">
+    <img src="https://hits.sh/github.com/DavidBorgess.svg?style=for-the-badge&label=VISITORS&color=08060D&labelColor=08060D" alt="Profile visitors counter" />
+  </a>
   <a href="https://github.com/DavidBorgess?tab=followers">
-    <img src="https://img.shields.io/github/followers/DavidBorgess?label=FOLLOWERS&logo=github&logoColor=C4B5FD&color=8B5CF6&style=for-the-badge" alt="GitHub followers count" />
+    <img src="https://img.shields.io/github/followers/DavidBorgess?label=FOLLOWERS&logo=github&logoColor=C4B5FD&color=08060D&labelColor=08060D&style=for-the-badge" alt="GitHub followers count" />
   </a>
 </p>
 
