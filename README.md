@@ -6,6 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=C4B5FD&background=08060D&center=true&vCenter=true&width=620&height=56&lines=Computer+Science+Student;Aspiring+Software+Developer;Learning+Python%2C+C+%26+Web+Development;Always+Learning%2C+Always+Building" alt="Typing animation: Computer Science Student, Aspiring Software Developer, Learning Python, C and Web Development, Always Learning, Always Building" />
 </a>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DavidBorgess&label=VISITORS&color=8B5CF6&style=for-the-badge" alt="Profile visitors counter" />
+  <a href="https://github.com/DavidBorgess?tab=followers">
+    <img src="https://img.shields.io/github/followers/DavidBorgess?label=FOLLOWERS&logo=github&logoColor=C4B5FD&color=8B5CF6&style=for-the-badge" alt="GitHub followers count" />
+  </a>
+</p>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:08060D,50:8B5CF6,100:08060D&height=2" alt="" width="100%" />
